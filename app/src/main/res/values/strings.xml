@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Studio</string>
+    <string name="notif_channel_recording">Studio Recording</string>
+    <string name="notif_recording_title">Mobile Studio is recording</string>
+    <string name="notif_capture_title">Mobile Studio is capturing your screen</string>
+    <string name="notif_vcam_title">Mobile Studio output stream is live</string>
+</resources>

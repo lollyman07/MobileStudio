@@ -1,0 +1,3 @@
+-keep class com.mobilestudio.app.model.** { *; }
+-keep class com.mobilestudio.app.data.db.** { *; }
+-dontwarn org.bouncycastle.**
